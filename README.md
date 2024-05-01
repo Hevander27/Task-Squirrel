@@ -1,6 +1,6 @@
-*Task Squirrel*
+**Task Squirrel**
 
-Submitted by: **Your Name Here**
+Submitted by: **Hevander Da Costa**
 
 **Task Squirrel**  which is an app that desperate parents use to get their children to do chores and help them out. 
 This app has a list of tasks for the user to complete. Users will be required to attach photos to show that they have completed the task. 
@@ -32,9 +32,8 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+![ezgif com-video-to-gif-converter](https://github.com/Hevander27/BoundaryAnalysis/assets/45948489/9b909933-7688-4352-ac47-ace16fe9ebe5)
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## Notes
 
@@ -42,7 +41,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [name of copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
