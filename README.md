@@ -12,7 +12,11 @@ Time spent: **2** hours spent in total
 
 The following **required** functionality is completed:
 
+- [X] Use PHPickerViewController to select photos and get photo data from the photo library
+- [X] Use MapKit to display custom annotations on a map
 - [X] App displays list of hard-coded tasks
+
+
 - [X] When a task is tapped it navigates the user to a task detail view
 - [X] When user adds photo to complete the tasks, it marks the task as complete
 - [X] When adding photo of task, the location is added
